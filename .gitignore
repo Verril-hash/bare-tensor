@@ -1,0 +1,14 @@
+# Rust Build Artifacts
+/target/
+
+# Python Virtual Environment
+.venv/
+
+# Massive AI Models downloaded during testing
+*.safetensors
+
+# Study guides and logs
+*.pdf
+*.html
+logs.txt
+test.rs
